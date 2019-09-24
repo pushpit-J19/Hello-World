@@ -3,5 +3,5 @@
 main()
 {
   printf("Hello world");
-  printf("\n Varun asked me to tell u fuck urself!!");
+  printf("\n Varun asked me to tell u fuck world!!");
 }
