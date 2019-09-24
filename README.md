@@ -2,5 +2,7 @@
 
 The time-honored tradition.
 
-the updates in the read me in GitHack on Day1
-kuchh bhi
+THE HELLO WORLD PROGRAM
+
+The first repository, a bit about myself.
+a commit message that describes your changes.
